@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:asignment11_rest_api/Product_Details/display_details.dart';
+import 'package:asignment11_rest_api/Details/display_details.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
